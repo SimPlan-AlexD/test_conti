@@ -1,0 +1,43 @@
+ApplicationVersion: "22.1.7.2628"
+ModelFormat: 1
+CompactFormat: true
+UUID: 5b1332c0-676e-465a-bb14-a3c17599c1ee
+ModelSettings:
+ Language: "English"
+ DateFormat: 1
+ ConnectorDrawing: true
+ AutoConnect: true
+ 3DOnlyModel: true
+ InterpStack: 5000
+ InterpChain: 10000
+ InterpSuspended: 5000
+ Epsilon: 1e-08
+ FPS: 30
+ DisplayPanelFPSDivider: 3
+ MaxSamples: 100
+ LoopTimeout: 7000
+ UnitLU: 1
+ TimeScale: [1,24,60,60]
+ DayLight: [3,-1,0,2,10,-1,0,3]
+ BaseYear: 2022
+ Units: [1,1,1,0,0]
+ MoneyUnit: €
+ ScreenCoverageThreshold: 1
+ ShowStateColors: false
+ GridConfiguration:
+  AxisColor: 0xf0
+  BasePlateMaterial: [0xbfbebebe,0x0,0x0,0x0]
+  LineSets:
+  - [0.1,0xaaaaaa,true]
+  - [1,0x6e6e6e,true]
+  - [10,0x0,true]
+  GridSnapLineSet: 2
+  SnapMode: 3
+Animation: true
+$Nodes:
+- 2b4a773b-67ac-445d-ad5b-781f064fe09d
+- b72903ae-05c0-4c49-9970-95412d778d9d
+- dcc398c5-2e9b-4c93-a018-ec22e1ec4f3f
+- c74c057a-5d50-4818-9406-4eeca03d2af3
+- f6a037d9-0ea3-437f-8c93-859eca3a3f2a
+- 2ddd6eb8-db43-431f-a9f1-01c6e921346e
