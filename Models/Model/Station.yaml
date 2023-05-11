@@ -3,6 +3,7 @@ Coordinate3D: [6,-4,0]
 Origin: 20e028ac-6365-4cf2-a2b7-f40182e4a607
 ProcTime: 30
 RandomSeed: 101
+SetupTime: 5:00
 UUID: d5f12ae7-7573-4099-b9e7-37853dedb437
 $Successors:
 -
@@ -12,3 +13,14 @@ $Successors:
  UUID: 6f6e9d2e-e275-4c10-b96e-598de6ce0fbf
 $Predecessors:
 - c67c2f8c-2f7d-4efb-8ab7-44a655dfb9bb
+$Failures:
+-
+ Name: Failure
+ ID: 4024773088
+ Active: true
+ Mode: SimulationTime
+ AvailabilityOn: true
+ Start: 0
+ Stop: 0
+ Interval: [Negexp,19:00.0000000000016]
+ Duration: [Erlang,1:00,42.426406871192853]
