@@ -1,0 +1,14 @@
+InternalClassType: Conveyor
+Coordinate3D: [3,-4,0]
+Name: Conveyor1
+Origin: 2db4b828-8ecf-4ca9-9f00-5f5fcdf05737
+RandomSeed: 104
+UUID: 83c3dd2a-b1eb-474f-8ae9-d8d74a8ce05a
+$Successors:
+-
+ $Succ: d5f12ae7-7573-4099-b9e7-37853dedb437
+ Name: Connector2
+ Origin: 31d06b1e-aacf-42c7-8655-ce2b08ceb466
+ UUID: c67c2f8c-2f7d-4efb-8ab7-44a655dfb9bb
+$Predecessors:
+- 33c30bee-28b4-4562-9360-4eaaa461abe7
